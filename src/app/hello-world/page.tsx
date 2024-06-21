@@ -1,3 +1,5 @@
 export default function HelloWorld() {
-    return "hello world";
+    const hw = "hello world";
+
+    return hw;
 }
